@@ -34,7 +34,7 @@ var APP_DATA = {
           "yaw": -3.1257244285883363,
           "pitch": 0.11861546377024723,
           "title": "ECE Intro",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1HuVy2v6WqnG_-x11RgbSHVyJAgqRYzOn/preview" width="640" height="480"></iframe>'
         }
       ]
     }
